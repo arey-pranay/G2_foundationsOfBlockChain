@@ -2,10 +2,15 @@
 
 DecentRaised is an innovative crowdfunding platform designed to leverage the Ethereum blockchain to enhance the security, transparency, and accessibility of fundraising campaigns.
 
-By: Aryan Choudhury
-    Pranay Parikh
-    Harsh Bhanushali
-Under: Sendhil Kumar
+**By:**
+
+- Aryan Choudhury
+- Pranay Parikh
+- Harsh Bhanushali
+
+**Under:**
+
+- Sendhil Kumar
 
 ## Problem Statement and Necessity
 
@@ -53,4 +58,3 @@ Inspired by successful initiatives like [CryptoRelief](https://www.cryptorelief.
 Deployment and further testing will be addressed as the project progresses. Stay tuned for updates on deployment details.
 
 ---
-
