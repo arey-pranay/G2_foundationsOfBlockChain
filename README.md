@@ -10,7 +10,7 @@ Harsh Bhanushali
 
 **Under:**
 
-Sendhil Kumar
+Dr. Sendhil Kumar K.S
 
 ## Problem Statement and Necessity
 
@@ -22,11 +22,10 @@ Crowdfunding is a popular method for raising funds for various causes. However, 
 
 Inspired by successful initiatives like [CryptoRelief](https://www.cryptorelief.in), DecentRaised aims to set a new standard in crowdfunding.
 
-## Tech Stack
+## Proposed Tech Stack
 
-- **Frontend:** Next.js, Chakra UI
-- **Smart Contracts:** Solidity
-- **Blockchain Interaction:** Web3.js
+- **Frontend:** Next.js, Chakra UI (Fully figured out and implemented)
+- **Backend:** Currently under development and evaluation. We are exploring options and technologies to best support our smart contracts and overall application.
 
 ## Setup and Installation
 
@@ -43,11 +42,7 @@ Inspired by successful initiatives like [CryptoRelief](https://www.cryptorelief.
 
 1. **Create an Account on Infura:** Sign up at [Infura](https://infura.io).
 2. **Setup Environment:**
-   - Create a `.env` file in the Ethereum directory with the following lines:
-     ```plaintext
-     mnemonic = 'Your mnemonic code'
-     link = 'Your infura end point link'
-     ```
+   - Create a `.env` file in the Ethereum directory. Add the necessary environment variables once available.
 3. **Modify Solidity Contract:** Make necessary changes to the Solidity file as required.
 4. **Compile and Deploy Smart Contracts:**
    - **Compile:** Run `node compile.js` to compile the Solidity contracts.
@@ -55,6 +50,16 @@ Inspired by successful initiatives like [CryptoRelief](https://www.cryptorelief.
 
 ## Future Work
 
-Deployment and further testing will be addressed as the project progresses. Stay tuned for updates on deployment details.
+As we continue to develop DecentRaised, our future work includes:
+
+- **Backend Development:** Finalizing and implementing the backend infrastructure to support the frontend and smart contracts.
+- **Deployment:** Deploying the application to a production environment and ensuring it is fully operational on the Ethereum mainnet.
+- **User Interface Enhancements:** Improving the user experience with additional features and a more intuitive interface based on user feedback.
+- **Integration Testing:** Conducting extensive testing to ensure all components of the platform interact seamlessly and perform reliably.
+- **Scalability Improvements:** Enhancing the platform’s scalability to handle larger volumes of transactions and users.
+- **Security Audits:** Performing thorough security audits of smart contracts and the overall application to identify and address any vulnerabilities.
+- **Additional Features:** Exploring and implementing new features such as support for different Ethereum networks, integration with other blockchain technologies, and advanced analytics for campaign performance.
+
+Stay tuned for updates on our progress and upcoming features!
 
 ---
