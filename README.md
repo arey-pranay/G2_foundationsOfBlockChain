@@ -4,13 +4,13 @@ DecentRaised is an innovative crowdfunding platform designed to leverage the Eth
 
 **By:**
 
-- Aryan Choudhury
-- Pranay Parikh
-- Harsh Bhanushali
+Aryan Choudhury  
+Pranay Parikh  
+Harsh Bhanushali  
 
 **Under:**
 
-- Sendhil Kumar
+Sendhil Kumar
 
 ## Problem Statement and Necessity
 
