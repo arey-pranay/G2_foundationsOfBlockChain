@@ -44,17 +44,17 @@ Here are some images showcasing the progress of the DecentRaised project:
 
 - **Logo:**
   <br>
-  ![Logo](https://github.com/Aryan-Choudhury/G2_foundationsOfBlockChain/blob/main/Images/Logo.jpeg?raw=true)
+  ![Logo](https://github.com/arey-pranay/G2_foundationsOfBlockChain/blob/main/Images/Logo.jpeg?raw=true)
   _The logo of DecentRaised._
   <br><br><br>
 - **Desktop View:**
   <br>
-  ![Desktop View](https://github.com/Aryan-Choudhury/G2_foundationsOfBlockChain/blob/main/Images/WebView.jpeg?raw=true)
+  ![Desktop View](https://github.com/arey-pranay/G2_foundationsOfBlockChain/blob/main/Images/WebView.jpeg?raw=true)
   _How the application looks on desktop or larger screens._
   <br><br><br>
 - **Mobile View:**
   <br>
-  ![Mobile View](https://github.com/Aryan-Choudhury/G2_foundationsOfBlockChain/blob/main/Images/AppView.jpeg?raw=true)
+  ![Mobile View](https://github.com/arey-pranay/G2_foundationsOfBlockChain/blob/main/Images/AppView.jpeg?raw=true)
   _Design of the application on mobile devices._
   <br><br><br>
 
